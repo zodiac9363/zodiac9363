@@ -1,53 +1,62 @@
-<div align="center">  
-
-# Hi, I'm Heavin Jeevan Raj R 👋  
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=900&color=00FFD1&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Aspiring+Machine+Learning+Engineer;Backend+%26+System+Design+Enthusiast;Building+Real-World+Tech+Projects;Future+AI+Systems+Builder" />  
-
-</div>
-
-
 ## 🙋 About Me
 
-I’m **Heavin Jeevan Raj R**, an AI & Data Science student focused on building **real-world, production-style systems** — not just academic projects.
-
-My work sits at the intersection of **machine learning, backend engineering, and data systems**. I design applications that don’t just predict outcomes, but translate them into **usable insights and decision-making tools**.
-
-From **ML-powered sustainability analytics** to **real-time financial visualization tools** and **network routing simulators**, I build projects that reflect how software is actually used in industry.
-
-I prioritize:
-- Clean, modular architecture  
-- Strong database design  
-- Scalable and practical implementations  
-
-🎯 Goal: Become a developer who builds **intelligent, high-impact systems**  
-🚀 Current Direction: Backend + AI + Real-time data applications  
-📍 India  
----
-
-## 🚀 Tech Stack
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,react,mysql,postgres,mongodb,flask,django,tensorflow,git,github,vscode" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Real-World+Systems;AI+%2B+Backend+%2B+Data+Driven+Thinking;Building+Projects+That+Actually+Matter" />
+
 </div>
 
-<br/>
+---
+
+💡 I’m **Heavin Jeevan Raj R**, an AI & Data Science student focused on building **real-world, scalable systems** — not just academic projects.
+
+Instead of just learning concepts, I design and develop **end-to-end applications** that combine:
+- 🤖 Machine Learning  
+- 💻 Backend Systems  
+- 📊 Data Visualization  
+
+---
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Problem%20Solving-00FFD1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Systems%20Thinking-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data-Driven%20Decisions-00FFD1?style=for-the-badge"/>
+
+</div>
+
+---
+
+### 🚀 What I'm Doing
+
+🔹 Building **portfolio-grade projects** (Healthcare System, Stock Analysis Tool, Network Simulator, ML Apps)  
+🔹 Working with **real-time data, APIs, and predictive models**  
+🔹 Designing systems with **clean architecture & scalability in mind**  
+
+---
+
+### 🎯 Where I'm Heading
+
 <div align="center">
 
-**Languages**  
-Python (Data + ML Focus) · Java (OOP & Systems) · JavaScript · SQL  
+<img src="https://img.shields.io/badge/Machine%20Learning-Advanced%20Systems-00AEEF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Engineering-Pipelines-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/System%20Design-Scalable%20Apps-00AEEF?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Products-Real%20World-0078D4?style=flat-square"/>
 
-**Backend & Web Systems**  
-Django · Flask · REST API Design · MVC Architecture  
+</div>
 
-**Database Engineering**  
-MySQL · PostgreSQL · MongoDB · JDBC · Schema Design · Query Optimization · 3NF  
+---
 
-**Data & Machine Learning**  
-Pandas · NumPy · Scikit-learn · TensorFlow · Feature Engineering · Model Evaluation  
+⚡ Goal: Become a developer who can build **production-level AI systems** that solve real-world problems.
+
+📍 Based in India | Open to internships, collaborations & real-world projects  
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFD1,100:0078D4&height=2&section=header"/>
 
 </div>
 
