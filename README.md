@@ -38,19 +38,7 @@ I build across **AI, data, web, and systems** with a focus on practical solution
 
 ## ⚙️ Skills
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,react,mysql,postgres,mongodb,flask,django,tensorflow&perline=6" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/JDBC-007396?style=flat-square"/>
-
-</div>
+<div align="center"><img src="https://skillicons.dev/icons?i=python,java,js,react,mysql,postgres,mongodb,flask,django,tensorflow&perline=6" /><br/><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn"/><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/><img src="https://img.shields.io/badge/JDBC-007396?style=flat-square"/></div>
 
 ---
 
