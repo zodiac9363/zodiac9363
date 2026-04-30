@@ -1,100 +1,111 @@
+## 🙋 About Me
+
+Hello! I'm **Heavin Jeevan Raj R**, an AI & Data Science student passionate about building real-world, impactful tech solutions.
+
+I focus on combining **machine learning, backend systems, and data-driven thinking** to create projects that actually solve problems — not just demos.
+
+I believe in **learning by building**. Every project I create is designed to be practical, scalable, and portfolio-ready.
+
+🎓 Degree: B.Tech in AI & Data Science  
+🌱 Currently Learning: Machine Learning pipelines, backend systems, and real-time data applications  
+🔭 Goal: Build production-grade AI systems & intelligent data-driven applications  
+💡 Approach: Clean architecture, strong fundamentals, real-world use cases  
+📍 Location: India  
+
+---
+
+## 🚀 Tech Stack
+
 <div align="center">
-
-# Hi, I'm Heavin Jeevan Raj R 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;ML+%7C+Backend+%7C+Systems+Builder;I+build+real-world+intelligent+applications)](https://git.io/typing-svg)
-
+<img src="https://skillicons.dev/icons?i=python,java,js,react,mysql,postgres,mongodb,flask,django,tensorflow,git,github,vscode" />
 </div>
-
----
-
-## ⚡ About Me
-
-I don’t just learn tech — I **build systems that solve real problems**.
-
-- 🧠 AI & Data Science student  
-- ⚙️ Backend + ML focused developer  
-- 🌐 Strong interest in systems, networking & data pipelines  
-- 📊 Building real-world dashboards, simulations & intelligent apps  
-- 🚀 Goal: Production-ready AI systems & scalable backend architectures  
-
----
-
-## 📊 Dev Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zodiac9363&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=zodiac9363&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodiac9363&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<div align="center">
+
+**Languages**  
+Python · Java · JavaScript · SQL  
+
+**Web & Backend**  
+Django · Flask · REST APIs  
+
+**Database**  
+MySQL · PostgreSQL · MongoDB · JDBC · Query Optimization  
+
+**Data & ML**  
+Pandas · NumPy · Scikit-learn · TensorFlow · Data Visualization  
+
+**Tools**  
+Git · GitHub · VS Code  
 
 </div>
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 What I'm Building Toward
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,react,mysql,postgres,mongodb,flask,django,tensorflow" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/JDBC-007396?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Advanced%20Projects-00AEEF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Engineering-Pipeline%20Building-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full--Stack%20Dev-Production%20Apps-00AEEF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Systems-Real%20World%20Use-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-Scalable%20Thinking-00AEEF?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Current Focus
+
+🔵 Building real-world AI + Data Science projects  
+🔵 Developing backend-heavy applications with databases  
+🔵 Working on financial data visualization & prediction systems  
+🔵 Strengthening system design & architecture skills  
+🔵 Creating high-quality, recruiter-ready GitHub projects  
+
+---
+
+## 🏗️ Skill Matrix
 
 <div align="center">
 
 <table>
 <tr>
 
-<td width="260px" align="center">
-
-### 🧠 ESG Predictor  
-**ML + Streamlit Dashboard**  
-⚡ Energy, water & carbon prediction  
-📊 Real-world sustainability insights  
-
+<td align="center" width="20%">
+<h3>🌐 Frontend</h3>
+HTML · CSS<br/>
+JavaScript · React
 </td>
 
-<td width="260px" align="center">
-
-### 🌐 NetRouteX  
-**Networking Simulator**  
-⚡ Longest Prefix Match (LPM)  
-📡 Real-time packet routing visualization  
-
+<td align="center" width="20%">
+<h3>💻 Backend</h3>
+Python · Java<br/>
+Django · Flask<br/>
+JDBC
 </td>
 
-<td width="260px" align="center">
-
-### 📈 StockPulsZ  
-**Financial Analytics Tool**  
-⚡ Real-time stock data + charts  
-📊 Multi-stock comparison  
-
+<td align="center" width="20%">
+<h3>💾 Database</h3>
+MySQL · PostgreSQL<br/>
+MongoDB<br/>
+Query Optimization
 </td>
 
-<td width="260px" align="center">
+<td align="center" width="20%">
+<h3>📊 Data/ML</h3>
+Pandas · NumPy<br/>
+Scikit-learn<br/>
+TensorFlow
+</td>
 
-### 🏥 Hospital System  
-**Java + MySQL Backend**  
-⚡ Full CRUD operations  
-🗄️ 3NF optimized database design  
-
+<td align="center" width="20%">
+<h3>⚙️ Systems</h3>
+API Integration<br/>
+Real-time Data<br/>
+Automation
 </td>
 
 </tr>
@@ -104,44 +115,36 @@ I don’t just learn tech — I **build systems that solve real problems**.
 
 ---
 
-## 🧠 What I Work On
-
-- 🤖 Machine Learning + Predictive Systems  
-- ⚙️ Backend APIs & Database-driven apps  
-- 📊 Data Visualization & Dashboards  
-- 🌐 Networking simulations & system design  
-- 🔁 Automation & real-time processing  
-
----
-
-## 🎯 Current Focus
+## 🌱 Learning Pulse
 
 <div align="center">
 
-🧠 AI Models & Data Pipelines  ▰▰▰▰▰▰▰▰▱▱  
-⚙️ Backend Systems & APIs     ▰▰▰▰▰▰▰▱▱▱  
-📊 Time Series Forecasting    ▰▰▰▰▰▱▱▱▱▱  
-🤖 Deep Learning / NLP        ▰▰▰▰▰▱▱▱▱▱  
-☁️ Deployment & DevOps        ▰▰▰▱▱▱▱▱▱▱  
+🤖 Machine Learning & AI  
+📊 Data Analytics & Visualization  
+🔗 Backend & Database Systems  
+⚙️ Real-Time Applications  
+🚀 Full-Stack Development  
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 💬 Let's Connect!
 
 <div align="center">
 
+Open to collaborations, projects, and tech discussions.
+
+<a href="mailto:zodiacmay2810@gmail.com">
+<img src="https://img.shields.io/badge/Email-Connect-00AEEF?style=for-the-badge"/>
+</a>
+
 <a href="https://github.com/zodiac9363">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/heavinr">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:zodiacmay2810@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
@@ -150,8 +153,8 @@ I don’t just learn tech — I **build systems that solve real problems**.
 
 <div align="center">
 
-### ⚡ Mindset
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00AEEF&height=120&section=footer" />
 
-**"Don’t just learn tech. Build things that prove you understand it."**
+"Build. Break. Learn. Repeat."
 
 </div>
