@@ -2,7 +2,7 @@
 
 # Hi, I'm Heavin Jeevan Raj R 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Aspiring+Machine+Learning+Engineer;Backend+%26+Systems+Builder;Building+Real-World+Tech+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Aspiring+Machine+Learning+Engineer;Backend+%26+Systems+Builder;Building+Real-World+Tech+Projects" />
 
 </div>
 
