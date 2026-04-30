@@ -128,9 +128,27 @@ Full Stack DB
 ---
 
 ## 🎯 Current Focus
-diff 
-+ AI Models & Data Pipelines
-+ Backend Systems & APIs
-~ Time Series Forecasting
-~ Deep Learning / NLP
-- Scalable Deployment & DevOps
+
+<div align="center">
+
+🧠 **AI / Data Systems**
+<br/>
+██████████░░ 80%
+
+⚙️ **Backend & APIs**
+<br/>
+█████████░░░ 75%
+
+📊 **Time Series Forecasting**
+<br/>
+██████░░░░░░ 50%
+
+🤖 **Deep Learning / NLP**
+<br/>
+██████░░░░░░ 50%
+
+☁️ **Deployment & DevOps**
+<br/>
+████░░░░░░░░ 30%
+
+</div>
