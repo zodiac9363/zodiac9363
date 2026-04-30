@@ -18,11 +18,17 @@
 
 ---
 
+
+👉 Feels like a **profile panel**, not bullets.
+
+---
+
+
 ## 🧠 About Me
 
 <div align="center">
 
-> ⚡ Building intelligent, scalable, and real-world systems
+> ⚡ Building intelligent systems with clean architecture
 
 </div>
 
@@ -30,11 +36,12 @@
 
 <div align="center">
 
-👨‍💻 AI & Data Science Student  
-⚙️ Backend-Focused Full-Stack Developer  
-🌐 Networking & System Design  
-📊 Data + Dashboards + Real-Time Systems  
-🧩 Clean Code. Smart Solutions.  
+| 🚀 Identity | 💡 Focus |
+|------------|---------|
+| AI & Data Science Student | Machine Learning Systems |
+| Full-Stack Developer | Backend + APIs |
+| Networking Enthusiast | System Design |
+| Problem Solver | Real-time Dashboards |
 
 </div>
 ---
