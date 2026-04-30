@@ -18,26 +18,16 @@
 
 ---
 
-## 🧠 About Me
+## ✨ About Me
 
-<div align="center">
+I build across **AI, data, web, and systems** with a focus on practical solutions that look clean and work well.
 
-> ⚡ Building intelligent systems with clean architecture
+- 🔹 AI & Data Science student
+- 🔹 Full-stack developer
+- 🔹 Networking and simulation enthusiast
+- 🔹 Focused on machine learning, dashboards, and automation
+- 🔹 Always building portfolio-ready projects
 
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🚀 Identity | 💡 Focus |
-|------------|---------|
-| AI & Data Science Student | Machine Learning Systems |
-| Full-Stack Developer | Backend + APIs |
-| Networking Enthusiast | System Design |
-| Problem Solver | Real-time Dashboards |
-
-</div>
 ---
 
 ## 📊 Dev Dashboard
