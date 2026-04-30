@@ -8,16 +8,6 @@
 
 ---
 
-## ⚡ Tech Identity
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,react,mysql,postgres,mongodb,flask,django,tensorflow,git,linux" />
-
-</div>
-
----
-
 ## ✨ About Me
 
 I build across **AI, data, web, and systems** with a focus on practical solutions that look clean and work well.
@@ -27,6 +17,15 @@ I build across **AI, data, web, and systems** with a focus on practical solution
 - 🔹 Networking and simulation enthusiast
 - 🔹 Focused on machine learning, dashboards, and automation
 - 🔹 Always building portfolio-ready projects
+
+---
+## ⚡ Tech Identity
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,react,mysql,postgres,mongodb,flask,django,tensorflow,git,linux" />
+
+</div>
 
 ---
 
