@@ -20,14 +20,23 @@
 
 ## 🧠 About Me
 
-> Building systems that think, scale, and solve.
+<div align="center">
 
-- 🚀 AI & Data Science Student  
-- 💻 Full-stack developer (backend-focused)  
-- 🌐 Networking & system design enthusiast  
-- 📊 Love dashboards & real-time systems  
-- 🧩 Solve complex problems with clean solutions  
+> ⚡ Building intelligent, scalable, and real-world systems
 
+</div>
+
+<br/>
+
+<div align="center">
+
+👨‍💻 AI & Data Science Student  
+⚙️ Backend-Focused Full-Stack Developer  
+🌐 Networking & System Design  
+📊 Data + Dashboards + Real-Time Systems  
+🧩 Clean Code. Smart Solutions.  
+
+</div>
 ---
 
 ## 📊 Dev Dashboard
@@ -131,24 +140,10 @@ Full Stack DB
 
 <div align="center">
 
-🧠 **AI / Data Systems**
-<br/>
-██████████░░ 80%
-
-⚙️ **Backend & APIs**
-<br/>
-█████████░░░ 75%
-
-📊 **Time Series Forecasting**
-<br/>
-██████░░░░░░ 50%
-
-🤖 **Deep Learning / NLP**
-<br/>
-██████░░░░░░ 50%
-
-☁️ **Deployment & DevOps**
-<br/>
-████░░░░░░░░ 30%
+🧠 AI Models & Data Pipelines  ▰▰▰▰▰▰▰▰▱▱  
+⚙️ Backend Systems & APIs     ▰▰▰▰▰▰▰▱▱▱  
+📊 Time Series Forecasting    ▰▰▰▰▰▱▱▱▱▱  
+🤖 Deep Learning / NLP        ▰▰▰▰▰▱▱▱▱▱  
+☁️ Deployment & DevOps        ▰▰▰▱▱▱▱▱▱▱  
 
 </div>
