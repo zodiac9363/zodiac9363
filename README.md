@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-```text
+
 > Building systems that think, scale, and solve.
 🚀 AI & Data Science Student
 💻 Full-stack developer with backend focus
@@ -65,4 +65,4 @@ AI + Systems + Real-Time Apps
 <div align="center"> <a href="https://www.linkedin.com/in/heavinjeevnraj/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/zodiac9363"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:zodiacmay2810@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
 <div align="center">
 ⚡ "Code. Build. Scale. Repeat."
-<img src="https://visitor-badge.laobi.icu/badge?page_id=zodiac9363.readme" /> </div> ```
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zodiac9363.readme" /> </div> 
