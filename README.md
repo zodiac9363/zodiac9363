@@ -2,7 +2,7 @@
 
 # Hi, I'm Heavin Jeevan Raj R 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00BCD4&center=true&vCenter=true&width=650&lines=Turning+Ideas+into+Real-World+Systems;AI+%2B+Backend+%2B+Data-Driven+Thinking;Building+Projects+That+Actually+Matter" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=4FC3F7&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Aspiring+Machine+Learning+Engineer;Backend+%26+Systems+Builder;Building+Real-World+Tech+Projects" />
 
 </div>
 
@@ -55,6 +55,27 @@ Portfolio-ready Work
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+## 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,react,mysql,postgres,mongodb,django,flask,tensorflow,git,github,vscode&theme=light" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Pandas-4FC3F7?style=flat-square&logo=pandas&logoColor=black"/>
+<img src="https://img.shields.io/badge/NumPy-4FC3F7?style=flat-square&logo=numpy&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-4FC3F7?style=flat-square&logo=scikit-learn&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-4FC3F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/JDBC-4FC3F7?style=flat-square"/>
 
 </div>
 
