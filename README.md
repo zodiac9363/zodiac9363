@@ -9,18 +9,20 @@
 
 ## 🙋 About Me
 
-Hello! I'm **Heavin Jeevan Raj R**, an AI & Data Science student passionate about building real-world, impactful tech solutions.
+I’m **Heavin Jeevan Raj R**, an AI & Data Science student focused on building **real-world, production-style systems** — not just academic projects.
 
-I focus on combining **machine learning, backend systems, and data-driven thinking** to create projects that actually solve problems — not just demos.
+My work sits at the intersection of **machine learning, backend engineering, and data systems**. I design applications that don’t just predict outcomes, but translate them into **usable insights and decision-making tools**.
 
-I believe in **learning by building**. Every project I create is designed to be practical, scalable, and portfolio-ready.
+From **ML-powered sustainability analytics** to **real-time financial visualization tools** and **network routing simulators**, I build projects that reflect how software is actually used in industry.
 
-🎓 Degree: B.Tech in AI & Data Science  
-🌱 Currently Learning: Machine Learning pipelines, backend systems, and real-time data applications  
-🔭 Goal: Build production-grade AI systems & intelligent data-driven applications  
-💡 Approach: Clean architecture, strong fundamentals, real-world use cases  
-📍 Location: India  
+I prioritize:
+- Clean, modular architecture  
+- Strong database design  
+- Scalable and practical implementations  
 
+🎯 Goal: Become a developer who builds **intelligent, high-impact systems**  
+🚀 Current Direction: Backend + AI + Real-time data applications  
+📍 India  
 ---
 
 ## 🚀 Tech Stack
@@ -33,22 +35,23 @@ I believe in **learning by building**. Every project I create is designed to be 
 
 <div align="center">
 
+<div align="center">
+
 **Languages**  
-Python · Java · JavaScript · SQL  
+Python (Data + ML Focus) · Java (OOP & Systems) · JavaScript · SQL  
 
-**Web & Backend**  
-Django · Flask · REST APIs  
+**Backend & Web Systems**  
+Django · Flask · REST API Design · MVC Architecture  
 
-**Database**  
-MySQL · PostgreSQL · MongoDB · JDBC · Query Optimization  
+**Database Engineering**  
+MySQL · PostgreSQL · MongoDB · JDBC · Schema Design · Query Optimization · 3NF  
 
-**Data & ML**  
-Pandas · NumPy · Scikit-learn · TensorFlow · Data Visualization  
-
-**Tools**  
-Git · GitHub · VS Code  
+**Data & Machine Learning**  
+Pandas · NumPy · Scikit-learn · TensorFlow · Feature Engineering · Model Evaluation  
 
 </div>
+
+
 
 ---
 
