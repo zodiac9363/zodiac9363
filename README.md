@@ -19,15 +19,6 @@ I build across **AI, data, web, and systems** with a focus on practical solution
 - 🔹 Always building portfolio-ready projects
 
 ---
-## ⚡ Tech Identity
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,react,mysql,postgres,mongodb,flask,django,tensorflow,git,linux" />
-
-</div>
-
----
 
 ## 📊 Dev Dashboard
 
