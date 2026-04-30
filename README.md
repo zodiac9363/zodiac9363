@@ -1,3 +1,12 @@
+<div align="center">
+
+# Hi, I'm Heavin Jeevan Raj R 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;Building+Real-World+Projects;Machine+Learning+%7C+Backend+%7C+Systems" />
+
+</div>
+
+
 ## 🙋 About Me
 
 Hello! I'm **Heavin Jeevan Raj R**, an AI & Data Science student passionate about building real-world, impactful tech solutions.
