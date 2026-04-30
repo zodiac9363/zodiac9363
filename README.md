@@ -183,20 +183,20 @@ Full Stack DB
 <td align="center">
 
 💻 **GitHub**  
-[zodiac9363](https://github.com/zodiac9363)
+[Github](https://github.com/zodiac9363)
 
 </td>
 
 <td align="center">
 
 🔗 **LinkedIn**  
-[heavinr](https://www.linkedin.com/in/heavinr)
+[Linkedin](https://www.linkedin.com/in/heavinr)
 
 </td>
 
 <td align="center">
 
-📧 **Email**  
+ 
 zodiacmay2810@gmail.com
 
 </td>
