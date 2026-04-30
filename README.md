@@ -30,67 +30,73 @@
 📊 Dev Dashboard
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zodiac9363&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodiac9363&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=zodiac9363&theme=tokyonight&hide_border=true" /> </div>
 
-## ⚙️ Skill Matrix
+## ⚙️ Skills
 
 <div align="center">
 
-### 🧠 AI / ML
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-<br/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,java,js,react,mysql,postgres,mongodb,flask,django,tensorflow&perline=6" />
 
----
-
-### 📊 Data Engineering & Analysis
-<img src="https://skillicons.dev/icons?i=python" />
 <br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-
----
-
-### 🌐 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
----
-
-### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=java,python" />
-<br/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white"/>
-
----
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-
----
-
-### 🌍 Systems & Networking
-<img src="https://img.shields.io/badge/Networking-0A66C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Routing%20Simulation-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=flat-square"/>
 
 </div>
-🚀 Project Highlights
+## 🚀 Projects
+
 <div align="center">
-🧩 Project	🚀 Domain	⚡ Impact
-Smart ESG Predictor	ML + Sustainability	Predicts energy & carbon usage
-NetRouteX	Networking	Visual packet routing simulator
-StockPulsZ	Data Analytics	Real-time stock insights
-Hospital System	Full Stack	Scalable DB management
+
+<table>
+<tr>
+<td width="250px">
+
+### 🧠 ESG Predictor  
+ML + Dashboard  
+⚡ Energy & carbon prediction  
+
+</td>
+
+<td width="250px">
+
+### 🌐 NetRouteX  
+Networking Simulator  
+⚡ Packet routing visualization  
+
+</td>
+
+<td width="250px">
+
+### 📈 StockPulsZ  
+Market Analytics  
+⚡ Real-time insights  
+
+</td>
+
+<td width="250px">
+
+### 🏥 Hospital System  
+Full Stack DB  
+⚡ CRUD + scalable design  
+
+</td>
+
+</tr>
+</table>
+
 </div>
 📈 Activity Analytics
 <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zodiac9363&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zodiac9363&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zodiac9363&theme=tokyonight" /> </div>
-🎯 Current Focus
-AI + Systems + Real-Time Apps
-├── Data Processing & ML Models     ✓
-├── API + Backend Systems          ✓
-├── Time Series Forecasting        ⟳
-├── Deep Learning + NLP            ⟳
-└── Scalable Deployment            ○
+## 🎯 Current Focus
+
+diff
++ AI Models & Data Pipelines
++ Backend Systems & APIs
+~ Time Series Forecasting
+~ Deep Learning / NLP
+- Scalable Deployment & DevOps
 🏆 Achievements
 🥇 Data Science Intern @ CodSoft
 📊 Built multiple ML models (85%+ accuracy)
