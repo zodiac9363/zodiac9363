@@ -1,8 +1,8 @@
-<div align="center">
+<div align="center">  
 
-# Hi, I'm Heavin Jeevan Raj R 👋
+# Hi, I'm Heavin Jeevan Raj R 👋  
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;Building+Real-World+Projects;Machine+Learning+%7C+Backend+%7C+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=900&color=00FFD1&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Aspiring+Machine+Learning+Engineer;Backend+%26+System+Design+Enthusiast;Building+Real-World+Tech+Projects;Future+AI+Systems+Builder" />  
 
 </div>
 
