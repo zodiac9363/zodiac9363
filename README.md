@@ -2,7 +2,7 @@
 
 # Hi, I'm Heavin Jeevan Raj R 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;Machine+Learning+Builder;Network+Systems+Explorer;I+build+real-world+intelligent+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Machine+Learning+Builder;Network+Systems+Explorer;I+build+real-world+intelligent+systems)](https://git.io/typing-svg)
 
 </div>
 
