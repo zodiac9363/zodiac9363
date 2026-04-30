@@ -34,14 +34,12 @@ I build across **AI, data, web, and systems** with a focus on practical solution
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=zodiac9363&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodiac9363&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
+<img src="https://streak-stats.demolab.com?user=zodiac9363&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodiac9363&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=zodiac9363&theme=tokyonight&hide_border=true" />
 
 </div>
 
