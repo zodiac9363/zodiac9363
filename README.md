@@ -154,3 +154,53 @@ Full Stack DB
 ☁️ Deployment & DevOps        ▰▰▰▱▱▱▱▱▱▱  
 
 </div>
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/zodiac9363">
+  <img src="https://img.shields.io/badge/GitHub-zodiac9363-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/heavinr">
+  <img src="https://img.shields.io/badge/LinkedIn-heavinr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:zodiacmay2810@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-zodiacmay2810%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📬 Quick Reach
+
+<table>
+<tr>
+<td align="center">
+
+💻 **GitHub**  
+[zodiac9363](https://github.com/zodiac9363)
+
+</td>
+
+<td align="center">
+
+🔗 **LinkedIn**  
+[heavinr](https://www.linkedin.com/in/heavinr)
+
+</td>
+
+<td align="center">
+
+📧 **Email**  
+zodiacmay2810@gmail.com
+
+</td>
+</tr>
+</table>
+
+</div>
