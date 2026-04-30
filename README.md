@@ -128,7 +128,7 @@ Full Stack DB
 ---
 
 ## 🎯 Current Focus
-
+diff 
 + AI Models & Data Pipelines
 + Backend Systems & APIs
 ~ Time Series Forecasting
