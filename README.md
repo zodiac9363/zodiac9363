@@ -5,7 +5,6 @@
 🌌 About Me
 Name: Heavin Jeevan Raj R
 Role: AI & Data Science Student
-CGPA: 8.15 / 10
 Focus: Machine Learning + Backend + Systems
 Current: Data Science Intern @ CodSoft
 Location: India
